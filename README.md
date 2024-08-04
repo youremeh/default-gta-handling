@@ -1,2 +1,2 @@
-# default-gta-handling
-a repo with all the default gta handling
+# Default GTA handling files
+Used for editing in FiveM and whatever else.
