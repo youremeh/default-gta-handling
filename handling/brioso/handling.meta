@@ -53,7 +53,31 @@
       <strDamageFlags>20</strDamageFlags>
       <AIHandling>AVERAGE</AIHandling>
       <SubHandlingData>
-        <Item type="" />
+        <Item type="CCarHandlingData">
+          <strAdvancedFlags>20000000</strAdvancedFlags>
+          <AdvancedData>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="0" />
+              <Value value="0.12" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="1" />
+              <Value value="0.14" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="2" />
+              <Value value="0.20" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="22" />
+              <Index value="0" />
+              <Value value="23" />
+            </Item>
+          </AdvancedData>
+        </Item>
         <Item type="" />
         <Item type="" />
       </SubHandlingData>
