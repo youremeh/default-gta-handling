@@ -75,7 +75,31 @@
           <fBikeOnStandSteerAngle value="0.300000" />
           <fJumpForce value="0.000000" />
         </Item>
-        <Item type="NULL" />
+        <Item type="CCarHandlingData">
+          <strAdvancedFlags>20000000</strAdvancedFlags>
+          <AdvancedData>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="0" />
+              <Value value="0.12" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="1" />
+              <Value value="0.14" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="2" />
+              <Value value="0.18" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="22" />
+              <Index value="0" />
+              <Value value="20" />
+            </Item>
+          </AdvancedData>
+        </Item>
         <Item type="NULL" />
       </SubHandlingData>
     </Item>

@@ -3,7 +3,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>DEVESTE</handlingName>
-      <fMass value="2300.000000" />
+      <fMass value="3000.000000" />
       <fInitialDragCoeff value="11.00000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.05" z="0.000000" />
@@ -54,9 +54,31 @@
       <AIHandling>AVERAGE</AIHandling>
       <SubHandlingData>
         <Item type="CCarHandlingData">
-          <strAdvancedFlags>40000</strAdvancedFlags>
           <fToeFront value="0.0" />
           <fEngineResistance value="0.02" />
+          <strAdvancedFlags>20040000</strAdvancedFlags>
+          <AdvancedData>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="0" />
+              <Value value="0.11" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="1" />
+              <Value value="0.125" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="2" />
+              <Value value="0.15" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="22" />
+              <Index value="0" />
+              <Value value="13" />
+            </Item>
+          </AdvancedData>
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />

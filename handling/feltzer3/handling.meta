@@ -57,6 +57,33 @@
           <fBackEndPopUpCarImpulseMult value="0.100000" />
           <fBackEndPopUpBuildingImpulseMult value="0.030000" />
           <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+          <AdvancedData>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="0" />
+              <Value value="0.10" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="1" />
+              <Value value="0.12" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="2" />
+              <Value value="0.14" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20" />
+              <Index value="3" />
+              <Value value="0.18" />
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="22" />
+              <Index value="0" />
+              <Value value="20" />
+            </Item>
+          </AdvancedData>
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
